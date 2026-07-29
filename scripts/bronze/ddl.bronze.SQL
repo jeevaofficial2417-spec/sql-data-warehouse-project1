@@ -1,9 +1,14 @@
+/*
+======================================================================
+                     CREATING THE TABLES
+======================================================================
 
+Script Purpose:
+---------------
+This script creates all the tables that needed for this project with declaring the data type.
 
-
-
-
-
+- creating the tables for bronze layer:
+*/
 
 create table bronze.crm_customer_info (
    cust_id int,
